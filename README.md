@@ -2,7 +2,7 @@
 
 Projeto de maquete simulando obtenção de energia solar
 
-
+<img src="logo.png">
 
 <h2> Energia Solar Fotovoltaica </h2>
 Energia solar é a energia proveniente da luz e do calor do Sol que é aproveitada e utilizada por meio de diferentes tecnologias, principalmente como o aquecimento solar, energia solar fotovoltaica, energia heliotérmica e arquitetura solar. A energia solar é considerada uma fonte de energia renovável e sustentável. A mais utilizada, e que abordaremos é a Energia Solar Térmica.
